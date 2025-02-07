@@ -41,7 +41,6 @@
 // java.lang.Exception: n or p should not be negative.
 
 import java.util.Scanner;
-import java.util.*;
 class MyCalculator {
     /*
     * Create the method long power(int, int) here.
